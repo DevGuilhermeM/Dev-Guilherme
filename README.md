@@ -11,7 +11,9 @@ Conecte-se Comigo:<br>
   </a>
   
   <b>Curso:<br>
+  <a href="https://onebitcode.com/lp/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8I9REynkx1jkG0g-fs7qFMyX13ktVP0TiBmuzpoOpmR2QR6OUVet8Vpui2c3ek1dROt8&usqp=CAU" alt="onebitcode" width="80" height="60" style="max-width: 100%;">
+  </a>
 
   
   
